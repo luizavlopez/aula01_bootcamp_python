@@ -1,0 +1,1 @@
+print("Olá, " + input("Digite o seu nome: ") + "!")
